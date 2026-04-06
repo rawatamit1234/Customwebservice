@@ -16,7 +16,7 @@ export default function Footer() {
             <p className="font-display text-lg font-bold text-white">
               AScustom <span className="text-accent-400">web</span>
             </p>
-            <p className="mt-1 text-xs font-medium text-slate-500">Amit &amp; Sandy · custom websites &amp; software</p>
+            <p className="mt-1 text-xs font-medium text-slate-500">Rawat &amp; Sandy · custom websites &amp; software</p>
             <p className="mt-3 text-sm text-slate-500 leading-relaxed">
               Built for leads, speed, and code you can grow on — working with clients in India and worldwide, with
               invoices in <span className="text-slate-400">INR or USD</span> when it suits your team.
@@ -63,8 +63,18 @@ export default function Footer() {
                   </a>
                 </li>
                 <li>
+                  <a href="mailto:Sb79079@gmail.com" className="break-all hover:text-white">
+                    Sb79079@gmail.com
+                  </a>
+                </li>
+                <li>
                   <a href="tel:+919548493378" className="hover:text-white">
                     +91 95484 93378
+                  </a>
+                </li>
+                <li>
+                  <a href="tel:+918755327242" className="hover:text-white">
+                    +91 8755327242
                   </a>
                 </li>
                 <li>
